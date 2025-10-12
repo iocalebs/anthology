@@ -241,7 +241,7 @@ l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c1
 l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:41:8:9">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:40:8:9">
 <g transform="translate(59.3773, 26.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
 </g>
@@ -325,7 +325,7 @@ l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c1
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:42:8:9">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:41:8:9">
 <g transform="translate(79.2574, 26.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
 </g>
@@ -366,12 +366,12 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:44:9:10">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:43:9:10">
 <g transform="translate(94.0965, 26.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:44:11:12">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:43:11:12">
 <g transform="translate(94.0965, 24.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
@@ -567,7 +567,7 @@ c0 -135 30 -261 129 -360c15 -15 -9 -39 -24 -24c-132 135 -177 312 -177 501c0 291 
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:45:8:9">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:44:8:9">
 <g transform="translate(15.2506, 47.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
 </g>
@@ -575,7 +575,7 @@ c0 -135 30 -261 129 -360c15 -15 -9 -39 -24 -24c-132 135 -177 312 -177 501c0 291 
 <g transform="translate(15.3156, 39.7670)">
 <rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8101" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:26:27">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:26:27">
 <g transform="translate(102.0483, 48.8620)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 -3.7500C1.6938 -4.5545 4.5154 -4.5545 5.3571 -3.7500L5.3571 -3.7500C4.5154 -4.4345 1.6938 -4.4345 0.8521 -3.7500z"/>
 </g>
@@ -603,7 +603,7 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <g transform="translate(21.6132, 39.7670)">
 <rect x="-0.0650" y="-1.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:16:17">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:16:17">
 <g transform="translate(95.7506, 48.8620)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 -3.7500C1.8271 -4.6104 5.7747 -4.6104 6.7497 -3.7500L6.7497 -3.7500C5.7747 -4.4904 1.8271 -4.4904 0.8521 -3.7500z"/>
 </g>
@@ -616,13 +616,13 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:9:10">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:45:9:10">
 <g transform="translate(30.7829, 45.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:12:13">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:45:12:13">
 <g transform="translate(30.7829, 44.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
@@ -689,13 +689,13 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:20:21">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:45:20:21">
 <g transform="translate(43.6282, 46.3620)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:24:25">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:45:24:25">
 <g transform="translate(43.6282, 44.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
@@ -707,7 +707,7 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <g transform="translate(43.6932, 48.8620)">
 <rect x="-0.0650" y="-3.7410" width="0.1300" height="4.7410" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:17:18">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:45:17:18">
 <g transform="translate(30.7829, 48.8620)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8887 -4.7500C2.2236 -5.7130 11.9990 -5.7130 13.3339 -4.7500L13.3339 -4.7500C11.9990 -5.5930 2.2236 -5.5930 0.8887 -4.7500z"/>
 </g>
@@ -740,12 +740,12 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
 c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:47:9:10">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:9:10">
 <g transform="translate(55.8679, 46.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:47:13:14">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:13:14">
 <g transform="translate(55.8679, 45.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
@@ -801,12 +801,12 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:9:10">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:48:9:10">
 <g transform="translate(71.7631, 45.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:11:12">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:48:11:12">
 <g transform="translate(71.7631, 43.3620)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
@@ -865,12 +865,12 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:9:10">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:9:10">
 <g transform="translate(94.5114, 46.3620)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:13:14">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:13:14">
 <g transform="translate(95.7506, 45.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -901,12 +901,12 @@ c0 -135 33 -264 132 -363c15 -15 -9 -36 -24 -21c-132 135 -177 312 -177 501c0 294 
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:19:20">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:19:20">
 <g transform="translate(102.0483, 46.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:23:24">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:23:24">
 <g transform="translate(102.0483, 45.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -928,13 +928,13 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M-67 48c0 37 30 67 67 67s67 -30 67 -67s-30 -67 -67 -67s-67 30 -67 67zM0 363c255 0 332 -331 332 -366c0 -9 -10 -15 -19 -15s-17 5 -19 18c-26 148 -146 262 -294 262s-268 -114 -294 -262c-2 -13 -10 -18 -19 -18s-19 6 -19 15c0 35 77 366 332 366z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:29:30">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:29:30">
 <g transform="translate(106.9167, 47.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:31:32">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:31:32">
 <g transform="translate(106.9167, 45.8620)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>

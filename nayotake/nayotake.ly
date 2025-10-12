@@ -2,6 +2,7 @@
 
 \header {
   title = "なよたけ"
+  % subtitle = "from \"The Tale of Princess Kaguya\""
   composer = "Joe Hisaishi"
 }
 
