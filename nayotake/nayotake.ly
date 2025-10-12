@@ -11,6 +11,7 @@
 
 \score {
   \new PianoStaff <<
+  \set PianoStaff.connectArpeggios = ##t
     \new Staff = "right" {
       \time 4/4
       \key ees \major
@@ -30,6 +31,15 @@
 
         f8 aes8 aes8 aes8 bes4. ees,8 |
         ees8 f8 f4 c2\fermata |
+
+        r2. aes'8 f8 | 
+        ees4 c8 ees8 bes8. c16 aes8 bes8 | 
+        f2. aes'8 f8 |
+        <f, ees'>8. f'16 c8 ees8 <g, bes>8 c8 aes8 bes8 |
+        f1 |
+
+        c8 ees8 ees4. ees8 d4 |
+        bes4 <g c>2.\arpeggio |
       }
     }
     \new Staff = "left" {
@@ -47,9 +57,18 @@
         
         <c' ees>2~ <bes ees>2 |
         <aes c>1 |
-
+    
         <c aes'> |
         <bes c>4~ <aes c>4~ <f c'>2 |
+
+        r1 |
+        r1 |
+        r1 |
+        <des aes'>2 <ees bes'>2 |
+        <f c'>1 |
+
+        f1 |
+        r4 <c, f c'>2.\arpeggio
       }
     }
   >>
