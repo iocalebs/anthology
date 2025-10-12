@@ -14,7 +14,7 @@ tspan { white-space: pre; }
 <tspan>Joe Hisaishi</tspan>
 </text>
 </g>
-<g transform="translate(39.3909, 18.7670)">
+<g transform="translate(45.6656, 18.7670)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(14.2264, 20.7670)">
@@ -36,22 +36,7 @@ tspan { white-space: pre; }
 <rect x="0.0000" y="6.4780" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 24.7670)">
-<rect x="100.0849" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
-</g>
-<g transform="translate(5.6906, 23.7670)">
-<rect x="93.7555" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
-</g>
-<g transform="translate(5.6906, 24.7670)">
-<rect x="93.7555" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
-</g>
-<g transform="translate(5.6906, 23.7670)">
-<rect x="86.2414" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
-</g>
-<g transform="translate(5.6906, 24.7670)">
-<rect x="86.2414" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
-</g>
-<g transform="translate(5.6906, 24.7670)">
-<rect x="64.1623" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="87.9155" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(14.2264, 29.7670)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
@@ -74,305 +59,123 @@ tspan { white-space: pre; }
 <g transform="translate(113.6210, 18.7670)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(105.4053, 14.3390)">
+<g transform="translate(92.7557, 14.3390)">
 <rect x="0.0000" y="6.4780" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(105.4053, 27.7670)">
+<g transform="translate(92.7557, 27.7670)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(105.4053, 18.7670)">
+<g transform="translate(92.7557, 18.7670)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(91.3000, 14.3390)">
+<g transform="translate(78.1059, 14.3390)">
 <rect x="0.0000" y="6.4780" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(91.3000, 27.7670)">
+<g transform="translate(78.1059, 27.7670)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(91.3000, 18.7670)">
+<g transform="translate(78.1059, 18.7670)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(83.6931, 14.3390)">
+<g transform="translate(58.2258, 14.3390)">
 <rect x="0.0000" y="6.4780" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(83.6931, 27.7670)">
+<g transform="translate(58.2258, 27.7670)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(83.6931, 18.7670)">
+<g transform="translate(58.2258, 18.7670)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(69.3221, 14.3390)">
+<g transform="translate(45.6656, 14.3390)">
 <rect x="0.0000" y="6.4780" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(69.3221, 27.7670)">
+<g transform="translate(45.6656, 27.7670)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(69.3221, 18.7670)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+<g transform="translate(26.1062, 18.7670)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="2.1191" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(59.7219, 14.3390)">
-<rect x="0.0000" y="6.4780" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
+<g transform="translate(109.8487, 18.9570)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.9762 0.6100 1.9762 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(59.7219, 27.7670)">
-<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(59.7219, 18.7670)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(46.9110, 14.3390)">
-<rect x="0.0000" y="6.4780" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(46.9110, 27.7670)">
-<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(46.9110, 18.7670)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(39.3909, 14.3390)">
-<rect x="0.0000" y="6.4780" width="0.1900" height="4.9500" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(39.3909, 27.7670)">
-<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(107.4401, 16.7670)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.1560 -1.2000 2.1560 -0.8000 0.0400 0.2000 0.0400 -0.2000"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:17:11:12">
-<g transform="translate(28.1072, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(28.1722, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.8972" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(102.1182, 20.9570)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.6942 0.4200 1.6942 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:17:16:17">
-<g transform="translate(29.9232, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(29.9882, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.7040" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:17:21:22">
-<g transform="translate(31.7392, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(31.8042, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.5108" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(92.2762, 20.5770)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.7881 -0.8200 5.7881 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:17:26:27">
-<g transform="translate(33.5553, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(35.3095, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(33.6203, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:39:17:18">
-<g transform="translate(92.2762, 27.7670)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8887 -4.7500C1.9573 -5.6429 6.9341 -5.6429 8.0028 -4.7500L8.0028 -4.7500C6.9341 -5.5229 1.9573 -5.5229 0.8887 -4.7500z"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:17:32:33">
-<g transform="translate(36.1825, 17.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(36.2475, 18.7670)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8068" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(84.6873, 20.7670)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.9060 -0.3900 1.9060 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:17:36:37">
-<g transform="translate(37.7867, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(37.8517, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1310" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(80.4847, 19.4570)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.6942 0.3000 1.6942 0.7000 0.0400 0.2000 0.0400 -0.2000"/>
-</g>
-<g transform="translate(80.4847, 20.2670)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.6942 0.3000 1.6942 0.7000 0.0400 0.2000 0.0400 -0.2000"/>
-</g>
-<g transform="translate(70.3434, 19.5770)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.7881 -0.8200 5.7881 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:18:8:9">
-<g transform="translate(40.4422, 16.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:33:8:9">
-<g transform="translate(40.4422, 26.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(40.5072, 18.7670)">
-<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.0271" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(56.3990, 20.9570)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.6942 0.4200 1.6942 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(109.8487, 19.7670)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.9762 0.6100 1.9762 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:18:11:12">
-<g transform="translate(42.0464, 17.7670)">
+<g transform="translate(28.9593, 17.2670)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(42.1114, 18.7670)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.6007" ry="0.0400" fill="currentColor"/>
+<g transform="translate(29.0243, 18.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.9033" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(50.1891, 21.5770)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.9060 -0.0100 1.9060 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(73.1171, 20.9570)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.5081 0.4200 2.5081 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:18:14:15">
-<g transform="translate(43.8625, 18.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:18:16:17">
+<g transform="translate(31.6273, 17.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(45.6898, 18.2670)">
+<g transform="translate(31.6923, 18.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.7060" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(63.4990, 21.5770)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.7581 -0.0100 2.7581 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:18:21:22">
+<g transform="translate(34.2954, 17.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.3604, 18.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.5087" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(47.0365, 19.9570)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.5081 0.4200 2.5081 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:18:26:27">
+<g transform="translate(36.9635, 17.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.7177, 17.2670)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(43.9275, 18.7670)">
-<rect x="-0.0650" y="-0.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(37.0285, 18.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(40.4422, 19.9570)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.6942 0.4200 1.6942 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(41.7933, 19.9570)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.0762 -0.3900 2.0762 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(36.1825, 19.9570)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.6942 -0.3900 1.6942 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(41.7933, 20.7670)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.0762 -0.3900 2.0762 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(36.1825, 20.7670)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.6942 -0.3900 1.6942 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:19:8:9">
-<g transform="translate(47.7716, 19.2670)">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:18:32:33">
+<g transform="translate(41.7933, 17.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:34:8:9">
-<g transform="translate(47.7716, 26.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(49.0108, 18.7670)">
-<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(41.8583, 18.7670)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8081" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(26.0412, 20.5770)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.7881 -0.8200 5.7881 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.3443 -0.8200 8.3443 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:19:13:14">
-<g transform="translate(50.1891, 18.2670)">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:18:36:37">
+<g transform="translate(43.7795, 17.2670)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(50.2541, 18.7670)">
-<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.1302" ry="0.0400" fill="currentColor"/>
+<g transform="translate(43.8445, 18.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1297" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:19:16:17">
-<g transform="translate(52.0052, 18.7670)">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:19:8:9">
+<g transform="translate(47.0365, 16.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(52.0702, 18.7670)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8075" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:19:21:22">
-<g transform="translate(54.0712, 17.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(54.1362, 18.7670)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:19:24:25">
-<g transform="translate(56.3990, 18.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(56.4640, 18.7670)">
-<rect x="-0.0650" y="-0.3139" width="0.1300" height="2.5271" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:19:27:28">
-<g transform="translate(58.0033, 19.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(58.0683, 18.7670)">
-<rect x="-0.0650" y="0.6861" width="0.1300" height="2.1007" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:20:8:9">
-<g transform="translate(60.5825, 19.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:35:8:9">
-<g transform="translate(60.5825, 26.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(26.1062, 18.7670)">
-<rect x="-0.0650" y="-0.3139" width="0.1300" height="2.1170" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(62.3367, 19.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(61.8217, 18.7670)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(22.4364, 27.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M196 117h117c0 -48 27 -94 72 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94zM-2 148c0 12 140 143 140 336c0 10 7 19 16 16c23 -7 47 -13 71 -13s48 6 71 13c14 4 23 -9 17 -16
-l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23z" fill="currentColor"/>
-</g>
-<g transform="translate(22.4364, 29.7831)">
-<path transform="scale(0.0040, -0.0040)" d="M196 117h117c0 -48 27 -94 72 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94zM-2 148c0 12 140 143 140 336c0 10 7 19 16 16c23 -7 47 -13 71 -13s48 6 71 13c14 4 23 -9 17 -16
-l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:20:12:13">
-<g transform="translate(63.2097, 19.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(64.4489, 18.7670)">
-<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(64.5139, 15.8070)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:20:17:18">
-<g transform="translate(66.2135, 19.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:20:19:20">
-<g transform="translate(66.9022, 15.7910)">
-<path transform="scale(0.0040, -0.0040)" d="M-67 48c0 37 30 67 67 67s67 -30 67 -67s-30 -67 -67 -67s-67 30 -67 67zM0 363c255 0 332 -331 332 -366c0 -9 -10 -15 -19 -15s-17 5 -19 18c-26 148 -146 262 -294 262s-268 -114 -294 -262c-2 -13 -10 -18 -19 -18s-19 6 -19 15c0 35 77 366 332 366z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(67.5258, 18.7670)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:8:9">
-<g transform="translate(70.3434, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:30:6:7">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:36:6:7">
 <g transform="translate(18.6464, 28.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
 c-13 0 -23 11 -23 25z" fill="currentColor"/>
@@ -386,29 +189,49 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:37:9:10">
-<g transform="translate(70.3434, 26.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:37:11:12">
-<g transform="translate(70.3434, 24.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:39:8:9">
+<g transform="translate(47.0365, 26.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
 </g>
 </a>
 <g transform="translate(15.0264, 26.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
 c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
 </g>
-<g transform="translate(70.4084, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.1170" ry="0.0400" fill="currentColor"/>
+<g transform="translate(47.1015, 18.7670)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.0197" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:32:8:9">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:38:8:9">
 <g transform="translate(26.0412, 26.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:13:6:7">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:19:11:12">
+<g transform="translate(49.4546, 17.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(49.5196, 18.7670)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.6081" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:19:14:15">
+<g transform="translate(52.1227, 18.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.9500, 18.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(52.1877, 18.7670)">
+<rect x="-0.0650" y="-0.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:21:8:9">
+<g transform="translate(59.3773, 19.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:14:6:7">
 <g transform="translate(22.4364, 18.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M196 117h117c0 -48 27 -94 72 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94zM-2 148c0 12 140 143 140 336c0 10 7 19 16 16c23 -7 47 -13 71 -13s48 6 71 13c14 4 23 -9 17 -16
 l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23z" fill="currentColor"/>
@@ -418,63 +241,12 @@ l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c1
 l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:14:15">
-<g transform="translate(72.4094, 16.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:41:8:9">
+<g transform="translate(59.3773, 26.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(72.4744, 18.7670)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="2.8972" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:17:18">
-<g transform="translate(74.2254, 16.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(74.2904, 18.7670)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="2.7040" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:20:21">
-<g transform="translate(76.0414, 16.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(76.1064, 18.7670)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="2.5108" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:23:24">
-<g transform="translate(77.8575, 16.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(79.6117, 16.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(77.9225, 18.7670)">
-<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:27:28">
-<g transform="translate(80.4847, 16.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(80.5497, 18.7670)">
-<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3326" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:31:32">
-<g transform="translate(82.0889, 17.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(82.1539, 18.7670)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.7952" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:23:8:9">
-<g transform="translate(84.6873, 17.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:14:6:7">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:15:6:7">
 <g transform="translate(18.6464, 18.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
 c-13 0 -23 11 -23 25z" fill="currentColor"/>
@@ -488,180 +260,691 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:38:8:9">
-<g transform="translate(84.6873, 26.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+<g transform="translate(60.6165, 18.7670)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(15.0264, 19.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
 c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
 c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
 c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<g transform="translate(84.7523, 18.7670)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8075" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:21:13:14">
+<g transform="translate(63.4990, 18.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:17:8:9">
+</a>
+<g transform="translate(63.5640, 18.7670)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.1283" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:21:16:17">
+<g transform="translate(66.1671, 18.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.2321, 18.7670)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8095" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:18:8:9">
 <g transform="translate(26.0412, 18.2670)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:23:11:12">
-<g transform="translate(86.5033, 17.2670)">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:21:21:22">
+<g transform="translate(69.0851, 17.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(86.5683, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1302" ry="0.0400" fill="currentColor"/>
+<g transform="translate(69.1501, 18.7670)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:23:16:17">
-<g transform="translate(88.3193, 17.2670)">
+<g transform="translate(94.0965, 19.5770)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.3443 -0.8200 8.3443 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(22.4364, 27.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M196 117h117c0 -48 27 -94 72 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94zM-2 148c0 12 140 143 140 336c0 10 7 19 16 16c23 -7 47 -13 71 -13s48 6 71 13c14 4 23 -9 17 -16
+l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23z" fill="currentColor"/>
+</g>
+<g transform="translate(22.4364, 29.7831)">
+<path transform="scale(0.0040, -0.0040)" d="M196 117h117c0 -48 27 -94 72 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94zM-2 148c0 12 140 143 140 336c0 10 7 19 16 16c23 -7 47 -13 71 -13s48 6 71 13c14 4 23 -9 17 -16
+l-284 -330h167v131c0 34 34 27 68 72c22 30 23 56 36 56c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23z" fill="currentColor"/>
+</g>
+<g transform="translate(73.1821, 18.7670)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="2.5197" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:21:27:28">
+<g transform="translate(75.5352, 19.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(75.6002, 18.7670)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.1081" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:8:9">
+<g transform="translate(79.2574, 19.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:42:8:9">
+<g transform="translate(79.2574, 26.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(81.0116, 19.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(80.4966, 18.7670)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:12:13">
+<g transform="translate(84.0872, 19.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(85.3264, 18.7670)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(85.3914, 15.8070)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:17:18">
+<g transform="translate(87.0909, 19.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(90.1467, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(88.3843, 18.7670)">
-<rect x="-0.0650" y="-1.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(110.6375, 18.7670)">
-<rect x="-0.0650" y="-0.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(112.3998, 18.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:8:9">
-<g transform="translate(92.2762, 18.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:25:18:19">
-<g transform="translate(111.2612, 16.2410)">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:22:19:20">
+<g transform="translate(87.7796, 15.7910)">
 <path transform="scale(0.0040, -0.0040)" d="M-67 48c0 37 30 67 67 67s67 -30 67 -67s-30 -67 -67 -67s-67 30 -67 67zM0 363c255 0 332 -331 332 -366c0 -9 -10 -15 -19 -15s-17 5 -19 18c-26 148 -146 262 -294 262s-268 -114 -294 -262c-2 -13 -10 -18 -19 -18s-19 6 -19 15c0 35 77 366 332 366z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:39:9:10">
-<g transform="translate(92.2762, 24.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(88.4033, 18.7670)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:39:12:13">
-<g transform="translate(92.2762, 23.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:25:15:16">
-<g transform="translate(110.5725, 18.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(92.3412, 18.7670)">
-<rect x="-0.0650" y="-0.3139" width="0.1300" height="2.1170" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(92.3412, 27.7670)">
-<rect x="-0.0650" y="-3.7410" width="0.1300" height="4.2410" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:11:12">
-<g transform="translate(94.3423, 17.2670)">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:8:9">
+<g transform="translate(94.0965, 17.2670)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(94.4073, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.8972" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:16:17">
-<g transform="translate(96.1583, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(96.2233, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.7040" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:21:22">
-<g transform="translate(97.9743, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(98.0393, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.5108" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:26:27">
-<g transform="translate(99.7903, 17.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:39:20:21">
-<g transform="translate(99.7903, 25.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:39:24:25">
-<g transform="translate(99.7903, 23.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(99.8553, 18.7670)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(99.8553, 27.7670)">
-<rect x="-0.0650" y="-3.7410" width="0.1300" height="4.7410" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(109.5711, 18.7670)">
-<rect x="-0.0650" y="-2.9704" width="0.1300" height="2.2843" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:31:32">
-<g transform="translate(102.1182, 17.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(102.1832, 18.7670)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.0271" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:25:11:12">
-<g transform="translate(108.3319, 18.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:34:35">
-<g transform="translate(103.7224, 18.7670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(103.7874, 18.7670)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="2.6007" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:25:8:9">
-<g transform="translate(106.2659, 20.2670)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:40:9:10">
-<g transform="translate(106.2659, 25.7670)">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:44:9:10">
+<g transform="translate(94.0965, 26.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:40:13:14">
-<g transform="translate(106.2659, 24.7670)">
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:44:11:12">
+<g transform="translate(94.0965, 24.7670)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
 <g transform="translate(14.1664, 23.2670)">
 <rect x="0.0000" y="-6.5500" width="0.1600" height="13.1000" ry="0.0500" fill="currentColor"/>
 </g>
-<g transform="translate(107.5051, 18.7670)">
-<rect x="-0.0650" y="-2.0296" width="0.1300" height="3.3435" ry="0.0400" fill="currentColor"/>
+<g transform="translate(94.1615, 18.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.1191" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(13.8664, 23.2670)">
 <path transform="scale(0.0040, -0.0040)" d="M-81 -366c0 255 -132 363 -132 366c0 18 132 96 132 366c0 261 -108 489 -108 780c0 189 45 366 177 501c15 15 39 -9 24 -24c-99 -99 -129 -225 -129 -360c0 -255 102 -480 102 -765c0 -186 -45 -363 -174 -498c129 -135 174 -312 174 -498c0 -285 -102 -510 -102 -765
 c0 -135 30 -261 129 -360c15 -15 -9 -39 -24 -24c-132 135 -177 312 -177 501c0 291 108 519 108 780z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:14:15">
+<g transform="translate(97.0146, 16.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(97.0796, 18.7670)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="2.9033" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:17:18">
+<g transform="translate(99.6827, 16.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(99.7477, 18.7670)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="2.7060" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(111.7999, 18.7670)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.5978" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:20:21">
+<g transform="translate(102.3508, 16.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.4158, 18.7670)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="2.5087" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:31:32">
+<g transform="translate(111.7349, 17.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:23:24">
+<g transform="translate(105.0189, 16.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(106.7731, 16.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(105.0839, 18.7670)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:24:27:28">
+<g transform="translate(109.8487, 16.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(109.9137, 18.7670)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.8400" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:21:24:25">
+<g transform="translate(73.1171, 18.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.3069, 39.7670)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.7670)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 40.7670)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 39.7670)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 38.7670)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 37.7670)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 35.5166)">
+<rect x="0.0000" y="6.3005" width="0.1900" height="5.0450" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.8620)">
+<rect x="100.8818" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.8620)">
+<rect x="96.0317" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.8620)">
+<rect x="89.7340" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 43.8620)">
+<rect x="65.5821" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.8620)">
+<rect x="65.5821" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.8620)">
+<rect x="65.5821" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.8620)">
+<rect x="49.6868" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.8620)">
+<rect x="37.5933" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.8620)">
+<rect x="37.5933" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 44.8620)">
+<rect x="24.7480" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 45.8620)">
+<rect x="24.7480" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 50.8620)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 49.8620)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 48.8620)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 47.8620)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 46.8620)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 48.8620)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(113.6210, 39.7670)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(93.5797, 35.5166)">
+<rect x="0.0000" y="6.3005" width="0.1900" height="5.0450" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(93.5797, 48.8620)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(93.5797, 39.7670)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(70.2420, 35.5166)">
+<rect x="0.0000" y="6.3005" width="0.1900" height="5.0450" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(70.2420, 48.8620)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(70.2420, 39.7670)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 36.7670)">
+<rect x="78.5918" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 36.7670)">
+<rect x="75.4430" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 36.7670)">
+<rect x="72.2942" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 36.7670)">
+<rect x="69.1454" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(54.5361, 35.5166)">
+<rect x="0.0000" y="6.3005" width="0.1900" height="5.0450" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.5361, 48.8620)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.5361, 39.7670)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(29.3069, 35.5166)">
+<rect x="0.0000" y="6.3005" width="0.1900" height="5.0450" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(29.3069, 48.8620)">
+<rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:25:8:9">
+<g transform="translate(15.2506, 38.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:45:8:9">
+<g transform="translate(15.2506, 47.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.3156, 39.7670)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="2.8101" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:26:27">
+<g transform="translate(102.0483, 48.8620)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 -3.7500C1.6938 -4.5545 4.5154 -4.5545 5.3571 -3.7500L5.3571 -3.7500C4.5154 -4.4345 1.6938 -4.4345 0.8521 -3.7500z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:25:11:12">
+<g transform="translate(18.3994, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(18.4644, 39.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1277" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(95.7506, 40.9570)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.2388 -0.3900 3.2388 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:25:16:17">
+<g transform="translate(21.5482, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(23.3756, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(21.6132, 39.7670)">
+<rect x="-0.0650" y="-1.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:16:17">
+<g transform="translate(95.7506, 48.8620)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 -3.7500C1.8271 -4.6104 5.7747 -4.6104 6.7497 -3.7500L6.7497 -3.7500C5.7747 -4.4904 1.8271 -4.4904 0.8521 -3.7500z"/>
+</g>
+</a>
+<g transform="translate(71.7631, 40.5770)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.7865 -0.8200 9.7865 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:27:8:9">
+<g transform="translate(30.7829, 39.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:9:10">
+<g transform="translate(30.7829, 45.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:12:13">
+<g transform="translate(30.7829, 44.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(4.8028, 36.6966)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+</g>
+<g transform="translate(30.8479, 39.7670)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="2.1198" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(30.8479, 48.8620)">
+<rect x="-0.0650" y="-3.7410" width="0.1300" height="4.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 49.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 48.3620)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 50.3620)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(57.0421, 37.9570)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.4888 -1.3900 3.4888 -0.9900 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:27:11:12">
+<g transform="translate(34.1818, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.2468, 39.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.9053" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(48.6216, 41.9570)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.9888 0.4200 2.9888 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:27:16:17">
+<g transform="translate(37.3306, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(37.3956, 39.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.7067" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:27:21:22">
+<g transform="translate(40.4794, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.5444, 39.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.5080" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(30.7829, 41.5770)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.7865 -0.8200 9.7865 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:27:26:27">
+<g transform="translate(43.6282, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:20:21">
+<g transform="translate(43.6282, 46.3620)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:24:25">
+<g transform="translate(43.6282, 44.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(43.6932, 39.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(43.6932, 48.8620)">
+<rect x="-0.0650" y="-3.7410" width="0.1300" height="4.7410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:46:17:18">
+<g transform="translate(30.7829, 48.8620)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8887 -4.7500C2.2236 -5.7130 11.9990 -5.7130 13.3339 -4.7500L13.3339 -4.7500C11.9990 -5.5930 2.2236 -5.5930 0.8887 -4.7500z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:27:31:32">
+<g transform="translate(48.6216, 38.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.6866, 39.7670)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.0172" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(15.2506, 41.7670)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.2388 -0.3900 3.2388 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:27:34:35">
+<g transform="translate(51.5204, 39.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.5854, 39.7670)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.6106" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:28:8:9">
+<g transform="translate(55.8679, 41.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(6.4906, 47.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:47:9:10">
+<g transform="translate(55.8679, 46.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:47:13:14">
+<g transform="translate(55.8679, 45.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(57.1071, 39.7670)">
+<rect x="-0.0650" y="-1.8319" width="0.1300" height="3.1458" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 39.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 40.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:28:11:12">
+<g transform="translate(59.2667, 39.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(60.5059, 39.7670)">
+<rect x="-0.0650" y="-2.9781" width="0.1300" height="2.2920" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 40.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:28:15:16">
+<g transform="translate(62.4155, 39.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:28:18:19">
+<g transform="translate(63.1042, 37.2410)">
+<path transform="scale(0.0040, -0.0040)" d="M-67 48c0 37 30 67 67 67s67 -30 67 -67s-30 -67 -67 -67s-67 30 -67 67zM0 363c255 0 332 -331 332 -366c0 -9 -10 -15 -19 -15s-17 5 -19 18c-26 148 -146 262 -294 262s-268 -114 -294 -262c-2 -13 -10 -18 -19 -18s-19 6 -19 15c0 35 77 366 332 366z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(64.2428, 39.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(62.4805, 39.7670)">
+<rect x="-0.0650" y="-0.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:30:8:9">
+<g transform="translate(71.7631, 37.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:9:10">
+<g transform="translate(71.7631, 45.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:49:11:12">
+<g transform="translate(71.7631, 43.3620)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(71.8281, 39.7670)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.6198" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:30:11:12">
+<g transform="translate(75.1620, 36.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(75.2270, 39.7670)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.4053" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:30:16:17">
+<g transform="translate(78.3108, 36.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(78.3758, 39.7670)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.2067" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:30:21:22">
+<g transform="translate(81.4596, 36.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(81.5246, 39.7670)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.0080" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:30:26:27">
+<g transform="translate(84.6084, 36.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(86.3626, 36.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(84.6734, 39.7670)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:30:32:33">
+<g transform="translate(90.4309, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(90.4959, 39.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(90.5609, 41.7270)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:31:8:9">
+<g transform="translate(95.7506, 38.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:9:10">
+<g transform="translate(94.5114, 46.3620)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:13:14">
+<g transform="translate(95.7506, 45.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(5.6306, 44.3145)">
+<rect x="0.0000" y="-6.5975" width="0.1600" height="13.1950" ry="0.0500" fill="currentColor"/>
+</g>
+<g transform="translate(95.8156, 39.7670)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="2.5001" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(95.8156, 48.8620)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.3306, 44.3145)">
+<path transform="scale(0.0040, -0.0040)" d="M-81 -366c0 255 -132 363 -132 366c0 18 132 96 132 366c0 261 -108 495 -108 789c0 189 45 366 177 501c15 15 39 -6 24 -21c-99 -99 -132 -228 -132 -363c0 -258 105 -483 105 -771c0 -186 -45 -366 -174 -501c129 -135 174 -315 174 -501c0 -288 -105 -513 -105 -771
+c0 -135 33 -264 132 -363c15 -15 -9 -36 -24 -21c-132 135 -177 312 -177 501c0 294 108 528 108 789z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:31:13:14">
+<g transform="translate(98.8994, 37.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(98.9644, 39.7670)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.8177" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:31:16:17">
+<g transform="translate(102.0483, 37.7670)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:19:20">
+<g transform="translate(102.0483, 46.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:23:24">
+<g transform="translate(102.0483, 45.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.1133, 39.7670)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(102.1133, 48.8620)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="4.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:31:19:20">
+<g transform="translate(106.9167, 39.2670)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:31:21:22">
+<g transform="translate(107.6054, 37.2410)">
+<path transform="scale(0.0040, -0.0040)" d="M-67 48c0 37 30 67 67 67s67 -30 67 -67s-30 -67 -67 -67s-67 30 -67 67zM0 363c255 0 332 -331 332 -366c0 -9 -10 -15 -19 -15s-17 5 -19 18c-26 148 -146 262 -294 262s-268 -114 -294 -262c-2 -13 -10 -18 -19 -18s-19 6 -19 15c0 35 77 366 332 366z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:29:30">
+<g transform="translate(106.9167, 47.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/nayotake/nayotake.ly:50:31:32">
+<g transform="translate(106.9167, 45.8620)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(106.9817, 39.7670)">
+<rect x="-0.0650" y="-0.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(106.9817, 48.8620)">
+<rect x="-0.0650" y="-2.7410" width="0.1300" height="5.2410" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(34.5530, 165.1202)">
 <a xlink:href="https://lilypond.org/">
