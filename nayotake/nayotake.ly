@@ -4,6 +4,7 @@
   title = "なよたけ"
   % subtitle = "from \"The Tale of Princess Kaguya\""
   composer = "Joe Hisaishi"
+  tagline = " "
 }
 
 \markup \vspace #1
