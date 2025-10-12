@@ -3,10 +3,15 @@
 
 *The Tale of Princess Kaguya* is a really beautiful movie. I highly recommend it.
 
+## Listen
+* [Spotify](https://open.spotify.com/track/1HGshLSsdtKCkeqRcjxlgF?si=6dfbcba19d984abd)
+* [YouTube](https://www.youtube.com/watch?v=rrxpLYi9FfA)
+
+
 ## Sheet Music
 [Download PDF](nayotake.pdf)
 ![Nayotake Sheet Music](nayotake.svg)
 
-## References
+### References
 * [MuseScore sheet](https://musescore.com/twigsters/supple-bamboo-joe-hisaishi-supple-bamboo-moon) by [Twigsters](https://musescore.com/twigsters)
 * [MuseScore sheet](https://musescore.com/yung_slimer/joe-hisaishi-supple-bamboo-from-the-tale-of-princess-kaguya-copyright-studio-ghibli) by [yung_slime](https://musescore.com/yung_slimer)
