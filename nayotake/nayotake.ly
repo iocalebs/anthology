@@ -1,36 +1,45 @@
 \version "2.24.4"
 
-\new PianoStaff <<
-  \new Staff = "right" {
-    \time 4/4
-    \key ees \major
-    \numericTimeSignature
-    \relative c'' {
-      c8 ees8 ees8 ees8 ees4. d16 ees16 |
-      f8 d8 c2. |
-      aes4 c8 bes8 d4 c8 aes8 |
-      g4. aes8 g2\fermata |
+\header {
+  title = "なよたけ"
+  composer = "Joe Hisaishi"
+}
 
-      ees'8 g8 g8 g8 g4. f16 d16 |
-      d8 ees8 ees2. |
-      c8 ees8 ees8 ees8 ees4 d8 bes8 |
-      f8 c'8 c2.\fermata |
-    }
-  }
-  \new Staff = "left" {
-    \clef bass
-    \key ees \major
-    \relative c {
-      r1 |
-      r1 |
-      r1 |
-      r1 |
+\markup \vspace #1
 
-      <f c'> |
-      r1 |
-      <c' ees>2~ <bes ees>2 |
-      <aes c>1 |
+\score {
+  \new PianoStaff <<
+    \new Staff = "right" {
+      \time 4/4
+      \key ees \major
+      \numericTimeSignature
+      \relative c'' {
+        c8 ees8 ees8 ees8 ees4. d16 ees16 |
+        f8 d8 c2. |
+        aes4 c8 bes8 d4 c8 aes8 |
+        g4. aes8 g2\fermata |
+
+        ees'8 g8 g8 g8 g4. f16 d16 |
+        d8 ees8 ees2. |
+        c8 ees8 ees8 ees8 ees4 d8 bes8 |
+        f8 c'8 c2.\fermata |
+      }
     }
-  }
->>
+    \new Staff = "left" {
+      \clef bass
+      \key ees \major
+      \relative c {
+        r1 |
+        r1 |
+        r1 |
+        r1 |
+
+        <f c'> |
+        r1 |
+        <c' ees>2~ <bes ees>2 |
+        <aes c>1 |
+      }
+    }
+  >>
+}
 
