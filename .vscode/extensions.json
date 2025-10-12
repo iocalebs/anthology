@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "james-yu.latex-workshop" // for auto-refereshing PDF viewer
+    ]
+}

@@ -1,0 +1,6 @@
+root = true
+
+[*.ly]
+# 2-space indent seems to be the standard used in official LilyPond documentation
+indent_style = space
+indent_size = 2
