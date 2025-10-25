@@ -991,7 +991,7 @@ c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -
 c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
 c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<g transform="translate(30.0630, 45.0552)">
+<g transform="translate(29.8846, 45.0552)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 47.0552)">
@@ -1009,17 +1009,20 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 <g transform="translate(0.0000, 43.0552)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(107.9305, 40.8252)">
+<g transform="translate(107.5205, 40.8252)">
+<rect x="0.0000" y="6.2800" width="0.6000" height="4.9950" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(107.0305, 40.8252)">
 <rect x="0.0000" y="6.2800" width="0.1900" height="4.9950" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 57.1002)">
-<rect x="100.8564" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="100.0355" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 58.1002)">
-<rect x="100.8564" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="100.0355" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 51.1002)">
-<rect x="68.7509" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="68.2462" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 56.1002)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
@@ -1036,74 +1039,80 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 <g transform="translate(0.0000, 52.1002)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(107.9305, 54.1002)">
+<g transform="translate(107.5205, 54.1002)">
+<rect x="0.0000" y="-2.0500" width="0.6000" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(107.0305, 54.1002)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(107.9305, 45.0552)">
+<g transform="translate(107.5205, 45.0552)">
+<rect x="0.0000" y="-2.0000" width="0.6000" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(107.0305, 45.0552)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(96.0309, 40.8252)">
+<g transform="translate(95.2624, 40.8252)">
 <rect x="0.0000" y="6.2800" width="0.1900" height="4.9950" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(96.0309, 54.1002)">
+<g transform="translate(95.2624, 54.1002)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(96.0309, 45.0552)">
+<g transform="translate(95.2624, 45.0552)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(76.9343, 40.8252)">
+<g transform="translate(76.3414, 40.8252)">
 <rect x="0.0000" y="6.2800" width="0.1900" height="4.9950" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(76.9343, 54.1002)">
+<g transform="translate(76.3414, 54.1002)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(76.9343, 45.0552)">
+<g transform="translate(76.3414, 45.0552)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(67.0642, 40.8252)">
+<g transform="translate(66.5677, 40.8252)">
 <rect x="0.0000" y="6.2800" width="0.1900" height="4.9950" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(67.0642, 54.1002)">
+<g transform="translate(66.5677, 54.1002)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(67.0642, 45.0552)">
+<g transform="translate(66.5677, 45.0552)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 48.0552)">
-<rect x="100.8564" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="100.0355" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 49.0552)">
-<rect x="100.8564" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="100.0355" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 48.0552)">
-<rect x="96.8822" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="96.1054" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 48.0552)">
-<rect x="77.7856" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="77.1843" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(0.0000, 42.0552)">
-<rect x="37.8908" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="37.6251" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
-<g transform="translate(43.2040, 40.8252)">
+<g transform="translate(42.8942, 40.8252)">
 <rect x="0.0000" y="6.2800" width="0.1900" height="4.9950" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(43.2040, 54.1002)">
+<g transform="translate(42.8942, 54.1002)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(43.2040, 45.0552)">
+<g transform="translate(42.8942, 45.0552)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(30.0630, 40.8252)">
+<g transform="translate(29.8846, 40.8252)">
 <rect x="0.0000" y="6.2800" width="0.1900" height="4.9950" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(30.0630, 54.1002)">
+<g transform="translate(29.8846, 54.1002)">
 <rect x="0.0000" y="-2.0500" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(103.0281, 57.6002)">
+<g transform="translate(102.2072, 57.6002)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(79.2858, 44.8652)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0769 -0.8200 3.0769 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(78.6846, 44.8652)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0549 -0.8200 3.0549 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:36:8:9">
 <g transform="translate(9.5600, 43.5552)">
@@ -1118,135 +1127,135 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 <g transform="translate(9.6250, 45.0552)">
 <rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(57.4110, 42.2452)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.0508 -0.2000 8.0508 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(57.0028, 42.2452)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.9846 -0.2000 7.9846 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:36:13:14">
-<g transform="translate(13.4797, 44.5552)">
+<g transform="translate(13.4356, 44.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(13.5447, 45.0552)">
-<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.1110" ry="0.0400" fill="currentColor"/>
+<g transform="translate(13.5006, 45.0552)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.1109" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(50.8169, 47.8652)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0769 -0.8200 3.0769 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(50.4528, 47.8652)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0549 -0.8200 3.0549 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:36:16:17">
-<g transform="translate(16.4666, 43.5552)">
+<g transform="translate(16.4005, 43.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(16.5316, 45.0552)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.5168" ry="0.0400" fill="currentColor"/>
+<g transform="translate(16.4655, 45.0552)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.5169" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(47.8913, 47.5866)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.7314 1.1250 -0.3314 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(47.5383, 47.5917)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.7365 1.1250 -0.3365 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(45.3513, 49.5552)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6650 -1.8900 3.6650 -1.4900 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(45.0332, 49.5552)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6301 -1.8900 3.6301 -1.4900 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:36:21:22">
-<g transform="translate(18.9536, 45.0552)">
+<g transform="translate(18.8654, 45.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(20.7078, 44.5552)">
+<g transform="translate(20.6196, 44.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(19.0186, 45.0552)">
+<g transform="translate(18.9304, 45.0552)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="2.9972" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(38.2169, 45.2452)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.5769 0.4200 2.5769 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(37.9512, 45.2452)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.5549 0.4200 2.5549 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:36:27:28">
-<g transform="translate(22.5286, 44.5552)">
+<g transform="translate(22.4054, 44.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(22.5936, 45.0552)">
+<g transform="translate(22.4704, 45.0552)">
 <rect x="-0.0650" y="-0.3139" width="0.1300" height="3.1306" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(25.6337, 42.2452)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.8269 -0.3900 2.8269 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(25.4995, 42.2452)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.8049 -0.3900 2.8049 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:36:31:32">
-<g transform="translate(24.4595, 45.5552)">
+<g transform="translate(24.3253, 45.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(25.6987, 45.0552)">
+<g transform="translate(25.5645, 45.0552)">
 <rect x="-0.0650" y="-2.8143" width="0.1300" height="3.1282" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(21.4936, 47.1747)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.3195 1.1250 0.0805 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(21.3704, 47.1758)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.3206 1.1250 0.0794 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(18.9536, 48.2452)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6650 -0.5800 3.6650 -0.1800 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(18.8654, 48.2452)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6301 -0.5800 3.6301 -0.1800 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:36:36:37">
-<g transform="translate(27.1965, 45.0552)">
+<g transform="translate(27.0402, 45.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(28.4357, 45.0552)">
+<g transform="translate(28.2794, 45.0552)">
 <rect x="-0.0650" y="-2.9957" width="0.1300" height="2.8096" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(13.4797, 47.8652)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0769 -0.8200 3.0769 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(13.4356, 47.8652)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0549 -0.8200 3.0549 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:37:8:9">
-<g transform="translate(31.2402, 46.5552)">
+<g transform="translate(31.0536, 46.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:66:8:9">
-<g transform="translate(31.2402, 53.1002)">
+<g transform="translate(31.0536, 53.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(33.0676, 46.5552)">
+<g transform="translate(32.8810, 46.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(32.5526, 45.0552)">
+<g transform="translate(32.3660, 45.0552)">
 <rect x="-0.0650" y="-2.0000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:37:12:13">
-<g transform="translate(38.2169, 42.0552)">
+<g transform="translate(37.9512, 42.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(38.2819, 45.0552)">
-<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.0193" ry="0.0400" fill="currentColor"/>
+<g transform="translate(38.0162, 45.0552)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.0194" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:37:18:19">
-<g transform="translate(40.7038, 43.0552)">
+<g transform="translate(40.4160, 43.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(40.7688, 45.0552)">
-<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.6085" ry="0.0400" fill="currentColor"/>
+<g transform="translate(40.4810, 45.0552)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.6084" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:9:10">
-<g transform="translate(45.3513, 46.5552)">
+<g transform="translate(45.0332, 46.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:12:13">
-<g transform="translate(45.3513, 43.5552)">
+<g transform="translate(45.0332, 43.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:67:9:10">
-<g transform="translate(45.3513, 54.1002)">
+<g transform="translate(45.0332, 54.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:67:13:14">
-<g transform="translate(45.3513, 52.1002)">
+<g transform="translate(45.0332, 52.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
@@ -1256,19 +1265,19 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <tspan>12</tspan>
 </text>
 </g>
-<g transform="translate(47.1055, 46.5552)">
+<g transform="translate(46.7874, 46.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(45.4163, 45.0552)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="5.7842" ry="0.0400" fill="currentColor"/>
+<g transform="translate(45.0982, 45.0552)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="5.7840" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(47.1055, 43.5552)">
+<g transform="translate(46.7874, 43.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(45.4163, 54.1002)">
+<g transform="translate(45.0982, 54.1002)">
 <rect x="-0.0650" y="-1.7410" width="0.1300" height="5.0743" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(44.2013, 54.1002)">
+<g transform="translate(43.8832, 54.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
 c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </g>
@@ -1285,97 +1294,97 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:20:21">
-<g transform="translate(48.9263, 43.0552)">
+<g transform="translate(48.5733, 43.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(48.9913, 45.0552)">
-<rect x="-0.0650" y="-1.8139" width="0.1300" height="4.6535" ry="0.0400" fill="currentColor"/>
+<g transform="translate(48.6383, 45.0552)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="4.6538" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:25:26">
-<g transform="translate(50.8169, 44.5552)">
+<g transform="translate(50.4528, 44.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(50.8819, 45.0552)">
-<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.1110" ry="0.0400" fill="currentColor"/>
+<g transform="translate(50.5178, 45.0552)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.1109" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:28:29">
-<g transform="translate(53.8039, 43.5552)">
+<g transform="translate(53.4177, 43.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(53.8689, 45.0552)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.5168" ry="0.0400" fill="currentColor"/>
+<g transform="translate(53.4827, 45.0552)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.5169" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:34:35">
-<g transform="translate(56.2368, 46.0552)">
+<g transform="translate(55.8286, 46.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:37:38">
-<g transform="translate(56.2368, 45.0552)">
+<g transform="translate(55.8286, 45.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:67:21:22">
-<g transform="translate(56.2368, 53.6002)">
+<g transform="translate(55.8286, 53.6002)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:67:25:26">
-<g transform="translate(56.2368, 51.6002)">
+<g transform="translate(55.8286, 51.6002)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(57.4760, 45.0552)">
+<g transform="translate(57.0678, 45.0552)">
 <rect x="-0.0650" y="-2.8100" width="0.1300" height="3.6239" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(0.8000, 53.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
 c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
 </g>
-<g transform="translate(56.3018, 54.1002)">
+<g transform="translate(55.8936, 54.1002)">
 <rect x="-0.0650" y="-2.2410" width="0.1300" height="5.2410" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:43:44">
-<g transform="translate(58.9738, 44.5552)">
+<g transform="translate(58.5435, 44.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(60.2130, 45.0552)">
+<g transform="translate(59.7827, 45.0552)">
 <rect x="-0.0650" y="-2.8100" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:46:47">
-<g transform="translate(61.4607, 45.5552)">
+<g transform="translate(61.0084, 45.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(62.6999, 45.0552)">
+<g transform="translate(62.2476, 45.0552)">
 <rect x="-0.0650" y="-2.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:38:51:52">
-<g transform="translate(64.1977, 45.0552)">
+<g transform="translate(63.7233, 45.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(65.4369, 45.0552)">
+<g transform="translate(64.9625, 45.0552)">
 <rect x="-0.0650" y="-2.8100" width="0.1300" height="2.6239" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:39:8:9">
-<g transform="translate(69.2414, 46.5552)">
+<g transform="translate(68.7367, 46.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:68:9:10">
-<g transform="translate(69.2414, 53.1002)">
+<g transform="translate(68.7367, 53.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:68:11:12">
-<g transform="translate(69.2414, 51.1002)">
+<g transform="translate(68.7367, 51.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
@@ -1398,113 +1407,113 @@ c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -18
 c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:41:8:9">
-<g transform="translate(78.1116, 48.0552)">
+<g transform="translate(77.5104, 48.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:70:8:9">
-<g transform="translate(78.1116, 53.1002)">
+<g transform="translate(77.5104, 53.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(99.9008, 48.1002)">
+<g transform="translate(99.0799, 48.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 49.1002)">
+<g transform="translate(99.0799, 49.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 50.1002)">
+<g transform="translate(99.0799, 50.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 51.1002)">
+<g transform="translate(99.0799, 51.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 52.1002)">
+<g transform="translate(99.0799, 52.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 53.1002)">
+<g transform="translate(99.0799, 53.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 54.1002)">
+<g transform="translate(99.0799, 54.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 55.1002)">
+<g transform="translate(99.0799, 55.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 56.1002)">
+<g transform="translate(99.0799, 56.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 57.1002)">
+<g transform="translate(99.0799, 57.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(99.9008, 58.1002)">
+<g transform="translate(99.0799, 58.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-1 75c0 42 91 65 91 131c0 17 -5 33 -17 47l-31 25c-4 3 -6 8 -6 12c0 8 7 16 16 16c3 0 7 -1 10 -4l128 -107c8 -6 11 -13 11 -20c0 -42 -91 -65 -91 -131c0 -17 5 -33 17 -47l31 -25c4 -3 6 -8 6 -12c0 -8 -7 -16 -16 -16c-3 0 -7 1 -10 4l-128 107
 c-8 6 -11 13 -11 20z" fill="currentColor"/>
 </g>
-<g transform="translate(79.3508, 45.0552)">
-<rect x="-0.0650" y="-0.2029" width="0.1300" height="3.0168" ry="0.0400" fill="currentColor"/>
+<g transform="translate(78.7496, 45.0552)">
+<rect x="-0.0650" y="-0.2030" width="0.1300" height="3.0169" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:41:11:12">
-<g transform="translate(81.0986, 47.0552)">
+<g transform="translate(80.4753, 47.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(82.3378, 45.0552)">
-<rect x="-0.0650" y="-0.7971" width="0.1300" height="2.6110" ry="0.0400" fill="currentColor"/>
+<g transform="translate(81.7145, 45.0552)">
+<rect x="-0.0650" y="-0.7970" width="0.1300" height="2.6109" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:41:16:17">
-<g transform="translate(83.8355, 47.0552)">
+<g transform="translate(83.1902, 47.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(85.5897, 46.5552)">
+<g transform="translate(84.9444, 46.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(85.0747, 45.0552)">
+<g transform="translate(84.4294, 45.0552)">
 <rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(103.0281, 54.6002)">
+<g transform="translate(102.2072, 54.6002)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:41:22:23">
-<g transform="translate(88.8433, 47.0552)">
+<g transform="translate(88.1409, 47.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(90.0825, 45.0552)">
+<g transform="translate(89.3801, 45.0552)">
 <rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(90.1475, 43.5952)">
+<g transform="translate(89.4451, 43.5952)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
-<g transform="translate(103.0281, 56.6002)">
+<g transform="translate(102.2072, 56.6002)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:41:27:28">
-<g transform="translate(91.6434, 47.5552)">
+<g transform="translate(90.9190, 47.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(92.8826, 45.0552)">
+<g transform="translate(92.1582, 45.0552)">
 <rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:42:8:9">
-<g transform="translate(97.2082, 48.5552)">
+<g transform="translate(96.4314, 48.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:71:8:9">
-<g transform="translate(97.2082, 54.1002)">
+<g transform="translate(96.4314, 54.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
 c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
 </g>
@@ -1512,53 +1521,53 @@ c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42
 <g transform="translate(-0.0600, 49.5777)">
 <rect x="0.0000" y="-6.5725" width="0.1600" height="13.1450" ry="0.0500" fill="currentColor"/>
 </g>
-<g transform="translate(98.4474, 45.0552)">
+<g transform="translate(97.6706, 45.0552)">
 <rect x="-0.0650" y="-0.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(-0.3600, 49.5777)">
 <path transform="scale(0.0040, -0.0040)" d="M-81 -366c0 255 -132 363 -132 366c0 18 132 96 132 366c0 261 -108 489 -108 780c0 189 45 366 177 501c15 15 39 -9 24 -24c-99 -99 -129 -225 -129 -360c0 -255 102 -480 102 -765c0 -186 -45 -363 -174 -498c129 -135 174 -312 174 -498c0 -285 -102 -510 -102 -765
 c0 -135 30 -261 129 -360c15 -15 -9 -39 -24 -24c-132 135 -177 312 -177 501c0 291 108 519 108 780z" fill="currentColor"/>
 </g>
-<g transform="translate(102.5131, 54.1002)">
+<g transform="translate(101.6922, 54.1002)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="6.7410" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:42:14:15">
-<g transform="translate(101.2008, 49.5552)">
+<g transform="translate(100.3799, 49.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:42:16:17">
-<g transform="translate(101.2008, 48.0552)">
+<g transform="translate(100.3799, 48.0552)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:71:12:13">
-<g transform="translate(101.2008, 58.1002)">
+<g transform="translate(100.3799, 58.1002)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:71:15:16">
-<g transform="translate(101.2008, 56.6002)">
+<g transform="translate(100.3799, 56.6002)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///Users/c/src/iocalebs/sheetmusic/supple-bamboo/supple-bamboo.ly:71:17:18">
-<g transform="translate(101.2008, 54.6002)">
+<g transform="translate(100.3799, 54.6002)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(103.0281, 49.5552)">
+<g transform="translate(102.2072, 49.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(102.5131, 45.0552)">
+<g transform="translate(101.6922, 45.0552)">
 <rect x="-0.0650" y="-0.5000" width="0.1300" height="4.7410" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(103.0281, 47.5552)">
+<g transform="translate(102.2072, 47.5552)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
 </svg>

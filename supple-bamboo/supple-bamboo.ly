@@ -39,7 +39,7 @@
         f1 |
 
         c8 ees8 ees4. ees8 d4 |
-        bes4 <g c>2.\arpeggio |
+        bes4 <g c>2.\arpeggio \bar "|."
       }
     }
     \new Staff = "left" {
@@ -68,7 +68,7 @@
         <f c'>1 |
 
         f1 |
-        r4 <c, f c'>2.\arpeggio
+        r4 <c, f c'>2.\arpeggio |
       }
     }
   >>
