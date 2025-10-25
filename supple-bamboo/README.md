@@ -9,9 +9,9 @@
 
 
 ## Sheet Music
-[Download PDF](nayotake.pdf)
+[Download PDF](supple-bamboo.pdf)
 
-![Nayotake Sheet Music](nayotake.cropped.svg)
+![Nayotake Sheet Music](supple-bamboo.cropped.svg)
 
 ### References
 * [MuseScore sheet](https://musescore.com/twigsters/supple-bamboo-joe-hisaishi-supple-bamboo-moon) by [Twigsters](https://musescore.com/twigsters)
