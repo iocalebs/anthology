@@ -11,7 +11,7 @@
 
 \score {
   \new PianoStaff <<
-  \set PianoStaff.connectArpeggios = ##t
+    \set PianoStaff.connectArpeggios = ##t
     \new Staff = "right" {
       \time 4/4
       \key ees \major
