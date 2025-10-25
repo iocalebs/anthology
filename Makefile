@@ -9,6 +9,7 @@ all: $(PDFS) $(SVGS)
 
 %.cropped.svg: %.ly
 	lilypond -dbackend=svg -dcrop -dno-print-pages -o $(dir $<) $<
+	awk 'NR==4{print "svg { background-color: white; }"}1' $(basename $@).svg > tmp.svg && mv tmp.svg $(basename $@).svg
 
 clean:
 	rm -f */*.pdf */*.svg
