@@ -1,5 +1,5 @@
 # なよたけ 
-なよたけ (*Nayotake*, in English "Supple Bamboo") is the 12th track of [*The Tale of the Princess Kaguya*](https://en.wikipedia.org/wiki/The_Tale_of_the_Princess_Kaguya_(film)) official soundtrack. It's the first piece of music I learned to play as an adult.
+なよたけ (*Nayotake*, in English "Supple Bamboo") is the 12th track of [*The Tale of the Princess Kaguya*](https://en.wikipedia.org/wiki/The_Tale_of_the_Princess_Kaguya_(film)) official soundtrack.
 
 *The Tale of Princess Kaguya* is a really beautiful movie. I highly recommend it.
 
