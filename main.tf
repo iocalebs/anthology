@@ -11,9 +11,9 @@ provider "github" {
   owner = "iocalebs"
 }
 
-resource "github_repository" "sheetmusic" {
-  name        = "sheetmusic"
-  description = "Personal collection of sheet music engraved with LilyPond"
+resource "github_repository" "anthology" {
+  name        = "anthology"
+  description = "Personal collection of music and poetry"
   has_issues  = true
   visibility  = "public"
 }
