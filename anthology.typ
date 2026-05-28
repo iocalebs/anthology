@@ -4,7 +4,7 @@
   below: 1.8em,
   inset: (left: 0.2em),
 )
-#pagebreak(to: "odd", weak: true)
+#pagebreak()
 
 From Witter Bynner's _New Poems_ (1960).
 
@@ -12,7 +12,7 @@ It appears in volume one of _American Poetry: The Twentieth Century_ (2000).
 
 The poem is quoted in Frank Ostaseski's book _The Five Invitations_ (2017).
 
-#pagebreak(to: "even")
+#pagebreak()
 
 All tempest \
 Has \
@@ -21,7 +21,7 @@ A hole in its middle \
 Through which a gull may fly \
 In silence \
 
-#pagebreak(to: "odd")
+#pagebreak()
 
 A _ruba'i_ (Persian quatrain) attributed to Omar Khayyam (1048–1131).
 
@@ -50,7 +50,7 @@ University of Michigan history professor Juan Cole.#footnote[
   https://www.juancole.com/2025/09/deserts-fitzgeralds-rubaiyat.html
 ]
 
-#pagebreak(to: "even")
+#pagebreak()
 
 The earthly hope men set their hearts upon \
 Turns ashes, or it prospers, and anon \
