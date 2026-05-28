@@ -35,20 +35,13 @@ _Rubáiyát of Omar Khayyám_ (1859):
   Lightning a little Hour or two — is gone.
 ]
 
-Alan Watts used the word "earthly" instead of "worldly"
-when he recited the poem during one of his recorded lectures
-from the late 1960s.#footnote[
-  https://www.organism.earth/library/document/out-of-your-mind-6
-]
-Intentional or no, it seems apt—less pious, in a sense.
+Alan Watts used _earthly_ instead of _worldly_ while reciting the poem
+in one of his recorded lectures from the late 1960s.
+#footnote[https://www.organism.earth/library/document/out-of-your-mind-6]
+This recording was sampled by AZEDIA in their 2012 track _Something_.
 
-Alan Watts's recitation of the poem was sampled
-by AZEDIA for their 2012 track _Something_.
-
-The Persian text was copied from the personal website of
-University of Michigan history professor Juan Cole.#footnote[
-  https://www.juancole.com/2025/09/deserts-fitzgeralds-rubaiyat.html
-]
+The Persian text was sourced from history professor Juan Cole's website.
+#footnote[https://www.juancole.com/2025/09/deserts-fitzgeralds-rubaiyat.html]
 
 #pagebreak()
 
