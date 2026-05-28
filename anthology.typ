@@ -1,4 +1,9 @@
 #set page("us-letter")
+#show quote.where(block: true): set block(
+  above: 1.8em,
+  below: 1.8em,
+  inset: (left: 0.2em),
+)
 
 A _ruba'i_ (Persian quatrain) attributed to Omar Khayyam (1048–1131).
 
