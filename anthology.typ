@@ -8,7 +8,7 @@
 A _ruba'i_ (Persian quatrain) attributed to Omar Khayyam (1048–1131).
 
 The English translation is adapted from Edward FitzGerald's
-_Rubáiyát of Omar Khayyám_ (1859).
+_Rubáiyát of Omar Khayyám_ (1859):
 
 #quote(block: true)[
   The Worldly Hope men set their Hearts upon \
@@ -17,7 +17,7 @@ _Rubáiyát of Omar Khayyám_ (1859).
   Lightning a little Hour or two — is gone.
 ]
 
-Alan Watts used the word "earthly" instead of "wordly"
+Alan Watts used the word "earthly" instead of "worldly"
 when he recited the poem during one of his recorded lectures
 from the late 1960s.#footnote[
   https://www.organism.earth/library/document/out-of-your-mind-6
@@ -25,7 +25,7 @@ from the late 1960s.#footnote[
 Intentional or no, it seems apt—less pious, in a sense.
 
 Alan Watts's recitation of the poem was sampled
-by electronic music duo AZEDIA for their 2012 track _Something_.
+by AZEDIA for their 2012 track _Something_.
 
 The Persian text was copied from the personal website of
 University of Michigan history professor Juan Cole.#footnote[
