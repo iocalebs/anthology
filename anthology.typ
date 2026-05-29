@@ -1,9 +1,13 @@
 #set page("us-letter")
+#set document(title: [Untitled Anthology])
+#show title: set align(center)
 #show quote.where(block: true): set block(
   above: 1.8em,
   below: 1.8em,
   inset: (left: 0.2em),
 )
+
+#title()
 #pagebreak()
 
 From Witter Bynner's _New Poems_ (1960).
