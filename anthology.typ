@@ -23,6 +23,18 @@ In silence \
 
 #pagebreak()
 
+From Christina Rossetti's _Sing-Song: A Nursery Rhyme Book_ (1872).
+
+//TODO: The Wind Rises
+
+#pagebreak()
+
+#read("poems/who-has-seen-the-wind.txt")
+
+//TODO: The Wind Rises
+
+#pagebreak()
+
 A _ruba'i_ (Persian quatrain) attributed to Omar Khayyam (1048–1131).
 
 The English translation is adapted from Edward FitzGerald's
