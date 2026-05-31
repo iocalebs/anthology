@@ -8,8 +8,11 @@
 )
 
 #title()
-#pagebreak()
 
+#pagebreak()
+#include("poems/a-passing-cyclist/page.typ")
+
+#pagebreak()
 #include("poems/all-tempest/context.typ")
 #pagebreak()
 #read("poems/all-tempest/poem.txt")
