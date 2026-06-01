@@ -10,15 +10,22 @@
 #title()
 
 #pagebreak()
-#include("poems/a-passing-cyclist/page.typ")
-
-#pagebreak()
 #include("poems/all-tempest/page.typ")
 
-#include("poems/the-earthly-hope/context.typ")
 #pagebreak()
-#read("poems/the-earthly-hope/poem.txt")
-#parbreak() // cannot render RTL and LTR in same paragraph
-#text(lang: "fa")[
-  #read("poems/the-earthly-hope/poem-farsi.txt")
+#include("poems/the-earthly-hope/page.typ")
+
+#pagebreak()
+= Afterword
+
+After having spent all this time writing about people's poems,
+I was told I ought to try writing one of my own.
+
+And so, this last poem is for Grammy.
+Thank you for encouraging me to try.
+
+#quote(block: true)[
+  Goose on the path \
+  The cyclist rings his bell \
+  To no effect \
 ]

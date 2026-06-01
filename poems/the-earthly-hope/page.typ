@@ -17,3 +17,11 @@ This recording was sampled by AZEDIA in their 2012 track _Something_.
 
 The Persian text was sourced from history professor Juan Cole's website.
 #footnote[https://www.juancole.com/2025/09/deserts-fitzgeralds-rubaiyat.html]
+
+#pagebreak()
+
+#read("poem.txt")
+
+#text(lang: "fa")[
+  #read("poem-farsi.txt")
+]
