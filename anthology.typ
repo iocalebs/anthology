@@ -13,10 +13,7 @@
 #include("poems/a-passing-cyclist/page.typ")
 
 #pagebreak()
-#include("poems/all-tempest/context.typ")
-#pagebreak()
-#read("poems/all-tempest/poem.txt")
-#pagebreak()
+#include("poems/all-tempest/page.typ")
 
 #include("poems/the-earthly-hope/context.typ")
 #pagebreak()
