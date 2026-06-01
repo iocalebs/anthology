@@ -1,4 +1,4 @@
-anthology.pdf
+**/*.pdf
 
 # terraform
 .terraform
