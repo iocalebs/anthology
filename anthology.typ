@@ -12,8 +12,26 @@
 ]
 
 #pagebreak()
+#outline()
+
+#pagebreak()
+#{
+  show heading: set align(center + horizon)
+  show heading: set text(size: 1.5em)
+  heading()[Poems]
+}
+
+#pagebreak()
+#{
+  show heading: none
+  heading(level: 2)[_All tempest_]
+}
 #include("poems/all-tempest/page.typ")
 
+#{
+  show heading: none
+  heading(level: 2)[_The Earthly Hope_]
+}
 #pagebreak()
 #include("poems/the-earthly-hope/page.typ")
 
