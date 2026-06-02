@@ -30,6 +30,9 @@ This allows the description to be viewed alongside the poem,
 #include("poems/all-tempest/page.typ")
 
 #pagebreak()
+#include("poems/who-has-seen-the-wind/page.typ")
+
+#pagebreak()
 #include("poems/the-earthly-hope/page.typ")
 
 #pagebreak()
