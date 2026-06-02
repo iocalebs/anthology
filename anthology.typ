@@ -36,7 +36,7 @@ And so, this last poem is for Grammy.
 Thank you for encouraging me to try.
 
 #quote(block: true)[
-  Goose on the path \
-  The cyclist rings his bell \
-  To no effect \
+  Geese on the path \
+  A cyclist rings his bell \
+  It has no effect \
 ]
