@@ -14,11 +14,17 @@
 #pagebreak()
 #pagebreak()
 
-This edition is intended to be bound with a spiral coil.
-Poems are placed on the right-hand page.
-Their descriptions on the preceding left-hand page.
-This allows the description to be viewed alongside the poem.
-Or, the book can be folded back onto iself to read just the poems themselves.
+Each poem in this anthology is accompanied by
+ a short description of its origins
+ and the key events that led to my discovery of their existence.
+
+This edition is arranged such that in a duplex printing,
+ the poems themselves are placed on the right-hand page,
+ and their descriptions on the preceding left-hand page.
+This allows the description to be viewed alongside the poem,
+ while at the same time allowing readers to ignore the descriptions
+ and focus on the poems should they wish—by flipping
+ a spiral coil binding back onto itself, for example.
 
 #pagebreak()
 #include("poems/all-tempest/page.typ")
