@@ -46,6 +46,6 @@ Thank you for encouraging me to try.
 
 #quote(block: true)[
   Geese on the path \
-  A cyclist rings his bell \
+  The cyclist rings his bell \
   It has no effect \
 ]
