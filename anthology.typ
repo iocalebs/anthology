@@ -82,5 +82,5 @@ Thank you for encouraging me to try.
 #quote(block: true)[
   Geese on the path \
   The cyclist rings his bell \
-  It has no effect \
+  To no effect \
 ]
