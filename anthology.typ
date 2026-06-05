@@ -10,10 +10,19 @@
   #title()
   #text(1.1em)[by Caleb St-Denis]
 ]
-
 #pagebreak()
+#set page(numbering: none)
 #pagebreak()
+#set page(numbering: "1", number-align: right)
 
+#set page(numbering: "1", number-align: right)
+#outline()
+#pagebreak()
+#set page(numbering: none)
+#pagebreak()
+#set page(numbering: "1", number-align: right)
+
+= Introduction
 Each poem in this anthology is accompanied by
  a short description of its origins
  and the key events that led to my discovery of their existence.
@@ -25,17 +34,43 @@ This allows the description to be viewed alongside the poem,
  while at the same time allowing readers to ignore the descriptions
  and focus on the poems should they wish—by flipping
  a spiral coil binding back onto itself, for example.
-
 #pagebreak()
+#set page(numbering: none)
+#pagebreak()
+
+#{
+  show heading: set align(center + horizon)
+  show heading: set text(size: 1.5em)
+  heading()[Poems]
+}
+#pagebreak()
+#set page(numbering: "1", number-align: right)
+
+#{
+  show heading: none
+  heading(level: 2)[_All tempest_]
+}
 #include("poems/all-tempest/page.typ")
-
 #pagebreak()
+
+#{
+  show heading: none
+  heading(level: 2)[_Who has seen the wind?_]
+}
 #include("poems/who-has-seen-the-wind/page.typ")
-
 #pagebreak()
+
+#{
+  show heading: none
+  heading(level: 2)[_The Earthly Hope men set their hearts upon_]
+}
 #include("poems/the-earthly-hope/page.typ")
-
 #pagebreak()
+
+#set page(numbering: none)
+#pagebreak()
+#set page(numbering: "1", number-align: right)
+
 = Afterword
 
 After having spent all this time writing about people's poems,
