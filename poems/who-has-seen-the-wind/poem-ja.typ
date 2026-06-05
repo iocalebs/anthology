@@ -1,18 +1,22 @@
-#import "@preview/rubby:0.10.2": get-ruby
+#import "@preview/basho:0.1.0": ruby, tate
+#set text(lang: "ja", font: "Harano Aji Mincho")
 
-#let ruby = get-ruby(dy: 9pt)
+#tate()[
+#ruby("誰", "だあれ")が風をみたでしょう
 
-#set par(leading: 1em)
-#set text(lang: "ja")
+僕もあなたも見やしない、
 
-#v(10pt)
-#ruby[だあれ][誰]が風を　みたでしょう \
-僕もあなたも　見やしない、 \
-けれど木の葉を#ruby[ふる][顫]わせて \
-風は通りぬけてゆく。 \
+けれど木の葉を#ruby("顫", "ふる")わせて
 
-#v(10pt)
-#ruby[だあれ][誰]が　風をみたでしょう \
-あなたも僕も　見やしない、 \
-けれど#ruby[こだち][樹立]が頭をさげて \
-風は通りすぎてゆく。 \
+風は通りぬけてゆく。
+
+#parbreak()
+
+#ruby("誰", "だあれ")が風をみたでしょう
+
+あなたも僕も見やしない、
+
+けれど#ruby("樹立", "こだち")が頭をさげて
+
+風は通りすぎてゆく。
+]
