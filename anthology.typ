@@ -30,10 +30,9 @@ Each poem in this anthology is accompanied by
 This edition is arranged such that in a duplex printing,
  the poems themselves are placed on the right-hand page,
  and their descriptions on the preceding left-hand page.
-This allows the description to be viewed alongside the poem,
- while at the same time allowing readers to ignore the descriptions
- and focus on the poems should they wish—by flipping
- a spiral coil binding back onto itself, for example.
+This allows the descriptions to be viewed alongside the poems,
+ or safely ignored by reading the right-hand pages only.
+
 #pagebreak()
 #set page(numbering: none)
 #pagebreak()
