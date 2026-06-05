@@ -72,7 +72,7 @@ This allows the descriptions to be viewed alongside the poems,
 
 = Afterword
 
-After having spent all this time writing about people's poems,
+After having spent all this time writing about other people's poems,
 I was told I ought to try writing one of my own.
 
 And so, this last poem is for Grammy.
