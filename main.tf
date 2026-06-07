@@ -20,3 +20,8 @@ resource "github_repository" "anthology" {
   has_issues  = true
   visibility  = "public"
 }
+
+resource "github_repository_pages" "anthology" {
+  repository = github_repository.anthology.name
+  build_type = "workflow"
+}
