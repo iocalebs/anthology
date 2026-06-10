@@ -5,6 +5,12 @@
   below: 1.8em,
   inset: (left: 0.2em),
 )
+#let poem(slug, title) = {
+  show heading: none
+  heading(level: 2, title)
+  include("poems/" + slug + "/page.typ")
+  pagebreak()
+}
 
 #align(center)[
   #title()
@@ -45,26 +51,9 @@ This allows the descriptions to be viewed alongside the poems,
 #pagebreak()
 #set page(numbering: "1", number-align: right)
 
-#{
-  show heading: none
-  heading(level: 2)[_All tempest_]
-}
-#include("poems/all-tempest/page.typ")
-#pagebreak()
-
-#{
-  show heading: none
-  heading(level: 2)[_Who has seen the wind?_]
-}
-#include("poems/who-has-seen-the-wind/page.typ")
-#pagebreak()
-
-#{
-  show heading: none
-  heading(level: 2)[_The Earthly Hope men set their hearts upon_]
-}
-#include("poems/the-earthly-hope/page.typ")
-#pagebreak()
+#poem("all-tempest")[_All tempest_]
+#poem("who-has-seen-the-wind")[_Who has seen the wind?_]
+#poem("the-earthly-hope")[_The Earthly Hope men set their hearts upon_]
 
 #set page(numbering: none)
 #pagebreak()
