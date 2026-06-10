@@ -53,6 +53,7 @@ This allows the descriptions to be viewed alongside the poems,
 
 #poem("all-tempest")[_All tempest_]
 #poem("who-has-seen-the-wind")[_Who has seen the wind?_]
+#poem("keep-going")[_Keep Going_]
 #poem("the-earthly-hope")[_The Earthly Hope men set their hearts upon_]
 
 #set page(numbering: none)
