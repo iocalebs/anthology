@@ -65,8 +65,7 @@ This allows the descriptions to be viewed alongside the poems,
 After having spent all this time writing about other people's poems,
 I was told I ought to try writing one of my own.
 
-And so, this last poem is for Grammy.
-Thank you for encouraging me to try.
+This last one is for Grammy.
 
 #quote(block: true)[
   Geese on the path \
