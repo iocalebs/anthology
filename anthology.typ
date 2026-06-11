@@ -52,6 +52,7 @@ This allows the descriptions to be viewed alongside the poems,
 #set page(numbering: "1", number-align: right)
 
 #poem("all-tempest")[_All tempest_]
+#poem("growing-old")[_You tell me I'm growing old_]
 #poem("keep-going")[_Keep Going_]
 #poem("who-has-seen-the-wind")[_Who has seen the wind?_]
 #poem("the-earthly-hope")[_The Earthly Hope men set their hearts upon_]

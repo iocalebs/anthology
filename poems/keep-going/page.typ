@@ -1,8 +1,8 @@
 This poem entitled "Keep Going" was written by Edgar Albert Guest
 for the March 4, 1921 issue of the _Detroit Free Press_.
 
-There exists a tape recording of my great-grandfather reciting this poem.
-There are a couple differences in his recitation that I seemed worth keeping.
+This poem also appears on my great-grandfather's tape recording.
+I have included some of his variations to the wording.
 
 The original text reads, #quote[Many a failure turns about].
 This seems overly harsh in a modern context,
