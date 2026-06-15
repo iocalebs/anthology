@@ -11,22 +11,24 @@
   include("poems/" + slug + "/page.typ")
   pagebreak()
 }
+#let blank() = {
+  set page(numbering: none)
+  pagebreak()
+}
 
 #align(center)[
   #title()
   #text(1.1em)[by Caleb St-Denis]
 ]
 #pagebreak()
-#set page(numbering: none)
-#pagebreak()
-#set page(numbering: "1", number-align: right)
+
+#blank()
 
 #set page(numbering: "1", number-align: right)
 #outline()
 #pagebreak()
-#set page(numbering: none)
-#pagebreak()
-#set page(numbering: "1", number-align: right)
+
+#blank()
 
 = Introduction
 Each poem in this anthology is accompanied by
@@ -38,18 +40,17 @@ This edition is arranged such that in a duplex printing,
  and their descriptions on the preceding left-hand page.
 This allows the descriptions to be viewed alongside the poems,
  or safely ignored by reading the right-hand pages only.
+#pagebreak()
 
-#pagebreak()
-#set page(numbering: none)
-#pagebreak()
+#blank()
 
 #{
+  set page(numbering: none)
   show heading: set align(center + horizon)
   show heading: set text(size: 1.5em)
   heading()[Poems]
+  pagebreak()
 }
-#pagebreak()
-#set page(numbering: "1", number-align: right)
 
 #poem("all-tempest")[_All tempest_]
 #poem("growing-old")[_You tell me I'm growing old_]
@@ -57,9 +58,7 @@ This allows the descriptions to be viewed alongside the poems,
 #poem("who-has-seen-the-wind")[_Who has seen the wind?_]
 #poem("the-earthly-hope")[_The Earthly Hope men set their hearts upon_]
 
-#set page(numbering: none)
-#pagebreak()
-#set page(numbering: "1", number-align: right)
+#blank()
 
 = Afterword
 
