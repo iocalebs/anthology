@@ -1,8 +1,7 @@
-Having spent so many hours learning about other people's poems,
-I was told it was only right for me to try one of my own.
+After having spent all this time writing about other people's poems,
+I was told I ought to try writing one of my own.
 
-And so, this one is for Grammy.
-Thank you for encouraging me to try.
+Ando so, this last one is for Grammy.
 
 #pagebreak()
 

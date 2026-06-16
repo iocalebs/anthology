@@ -5,15 +5,28 @@
   below: 1.8em,
   inset: (left: 0.2em),
 )
+#let blank() = {
+  set page(numbering: none)
+  pagebreak()
+}
+#let section(title) = {
+  set page(numbering: none)
+  show heading: set align(center + horizon)
+  show heading: set text(size: 1.5em)
+  heading(title)
+  pagebreak()
+}
 #let poem(slug, title) = {
   show heading: none
   heading(level: 2, title)
   include("poems/" + slug + "/page.typ")
-  pagebreak()
+  pagebreak(to: "even")
 }
-#let blank() = {
-  set page(numbering: none)
-  pagebreak()
+#let song(slug, title) = {
+  show heading: none
+  heading(level: 2, title)
+  include("music/" + slug + "/page.typ")
+  pagebreak(to: "even")
 }
 
 #align(center)[
@@ -44,31 +57,19 @@ This allows the descriptions to be viewed alongside the poems,
 
 #blank()
 
-#{
-  set page(numbering: none)
-  show heading: set align(center + horizon)
-  show heading: set text(size: 1.5em)
-  heading()[Poems]
-  pagebreak()
-}
-
+#section("Poems")
 #poem("all-tempest")[_All tempest_]
 #poem("growing-old")[_You tell me I'm growing old_]
 #poem("keep-going")[_Keep Going_]
 #poem("who-has-seen-the-wind")[_Who has seen the wind?_]
 #poem("the-earthly-hope")[_The Earthly Hope men set their hearts upon_]
+#blank()
+#blank()
+#poem("geese-on-the-path")[_Geese on the path_]
 
 #blank()
 
-= Afterword
+#section("Music")
+#song("nayotake")[_Supple Bamboo_ (なよたけ)]
 
-After having spent all this time writing about other people's poems,
-I was told I ought to try writing one of my own.
-
-This last one is for Grammy.
-
-#quote(block: true)[
-  Geese on the path \
-  The cyclist rings his bell \
-  To no effect \
-]
+#set page(numbering: none)
