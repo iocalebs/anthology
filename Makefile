@@ -11,8 +11,13 @@ artifacts: .anthology.pdf
 	mkdir -p artifacts
 	cp .anthology.pdf artifacts/anthology.pdf
 
+# --ignore-system-fonts is set to ensure reproducible builds
 .anthology.pdf: anthology.typ $(music_svg) $(poem_txt) $(poem_typ)
-	typst compile anthology.typ .anthology.pdf
+	typst compile \
+		--font-path fonts/ \
+		--ignore-system-fonts \
+		anthology.typ \
+		.anthology.pdf
 
 # Stamp files needed as Lilypond generates one SVG per page
 $(music_svg): %.svg.stamp: %.ly
@@ -27,5 +32,10 @@ init:
 open: .anthology.pdf
 	open -a Skim .anthology.pdf
 
+# --ignore-system-fonts is set to ensure reproducible builds
 watch: open
-	typst watch anthology.typ .anthology.pdf
+	typst watch \
+		--font-path fonts/ \
+		--ignore-system-fonts \
+		anthology.typ \
+		.anthology.pdf
