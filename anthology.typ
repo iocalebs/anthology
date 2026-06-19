@@ -50,8 +50,9 @@ This anthology contains poems and musical scores,
 In a double-sided printing,
  each poem appears on a right-hand page (_le recto_),
  and its description on the preceding left-hand page (_le verso_).
-Should the binding allow, fold the book back on itself
- to read just the poems on their own.
+If the binding allows,
+ you can fold the book back on itself
+ to read the poems on their own.
 
 #pagebreak()
 #blank()
