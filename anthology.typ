@@ -1,4 +1,4 @@
-#set page("us-letter")
+#set page("us-letter", number-align: right)
 #set document(title: [Untitled Anthology])
 #show quote.where(block: true): set block(
   above: 1.8em,
@@ -29,21 +29,19 @@
   pagebreak(to: "even")
 }
 
-#align(center)[
-  #title()
-  #text(1.1em)[by Caleb St-Denis]
-]
-#pagebreak()
+#set page(numbering: "i")
+
+#{
+  set page(numbering: none)
+  set align(center)
+  title()
+  text(1.1em)[by Caleb St-Denis]
+  pagebreak()
+}
 
 #blank()
 
-#set page(numbering: "1", number-align: right)
-#outline()
-#pagebreak()
-
-#blank()
-
-= Preface
+#heading(outlined: false)[Preface]
 
 This anthology contains poems and musical scores,
  along with brief descriptions of where they came from
@@ -56,8 +54,15 @@ Should the binding allow, fold the book back on itself
  to read just the poems on their own.
 
 #pagebreak()
+#blank()
+
+#outline()
+#pagebreak()
 
 #blank()
+
+#set page(numbering: "1")
+#counter(page).update(1)
 
 #section("Poems")
 #poem("all-tempest")[_All tempest_]
