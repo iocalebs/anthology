@@ -43,16 +43,18 @@
 
 #blank()
 
-= Introduction
-Each poem in this anthology is accompanied by
- a short description of its origins
- and the key events that led to my discovery of their existence.
+= Preface
 
-This edition is arranged such that in a duplex printing,
- the poems themselves are placed on the right-hand page,
- and their descriptions on the preceding left-hand page.
-This allows the descriptions to be viewed alongside the poems,
- or safely ignored by reading the right-hand pages only.
+This anthology contains poems and musical scores,
+ along with brief descriptions of where they came from
+ and how I learned of them.
+
+In a double-sided printing,
+ each poem appears on a right-hand page (_le recto_),
+ and its description on the preceding left-hand page (_le verso_).
+Should the binding allow, fold the book back on itself
+ to read just the poems on their own.
+
 #pagebreak()
 
 #blank()
