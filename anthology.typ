@@ -16,17 +16,22 @@
   heading(title)
   pagebreak()
 }
-#let poem(slug, title) = {
+#let poem(dir, toc) = {
   show heading: none
-  heading(level: 2, title)
-  include("poems/" + slug + "/page.typ")
+  heading(level: 2, toc)
+  include("poems/" + dir + "/page.typ")
   pagebreak(to: "even")
 }
-#let song(slug, title) = {
+#let score(dir, toc) = {
   show heading: none
-  heading(level: 2, title)
-  include("music/" + slug + "/page.typ")
-  pagebreak(to: "even")
+  heading(level: 2, toc)
+  include("music/" + dir + "/entry.typ")
+  pagebreak()
+}
+#let score_desc(dir, head) = {
+  set heading(outlined: false)
+  heading(level: 2, head)
+  include("music/" + dir + "/desc.typ")
 }
 
 #set page(numbering: "i")
@@ -84,6 +89,15 @@ In the Music section,
 #blank()
 
 #section("Music")
-#song("nayotake")[_Supple Bamboo_ (なよたけ)]
+#score("nayotake")[_Supple Bamboo_ (なよたけ)]
+#blank() // Ballad of the Wind Fish
+#score("cant-help-falling-in-love")[_Can't Help Falling in Love_]
+#score("never-grow-old")[_Where We'll Never Grow Old_]
+#score("les-anges-dans-nos-campagnes")[_Les anges dans nos campagnes_]
 
-#set page(numbering: none)
+#pagebreak(to: "odd")
+
+#score_desc("nayotake")[なよたけ]
+#score_desc("cant-help-falling-in-love")[_Can't Help Falling in Love_]
+#score_desc("never-grow-old")[_(Where We'll) Never Grow Old_]
+#score_desc("les-anges-dans-nos-campagnes")[_Les anges dans nos campagnes_]

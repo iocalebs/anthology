@@ -3,8 +3,5 @@
 
 Later, when Grampy was very sick, singing was one of the things he could still do and enjoy. This may have been the last song I ever heard him sing.
 
-## Sheet Music
-*Work in progress*
-
 ## References
 * [Where We'll Never Grow Old - Hymnary.org](https://hymnary.org/media/fetch/118508)

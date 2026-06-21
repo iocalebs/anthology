@@ -8,10 +8,3 @@ Mémère loved Elvis's music.
 ## Listen
 * [Spotify](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC)
 * [YouTube](https://www.youtube.com/watch?v=vGJTaP6anOU)
-
-## Sheet Music
-*Work in progress*
-
-[Download PDF](elvis.pdf)
-
-![Sheet Music](elvis.cropped.svg)
