@@ -22,8 +22,6 @@ jobs:
       - uses: actions/configure-pages@v6
       - uses: typst-community/setup-typst@v5
       - run: make artifacts
-        env:
-          TYPST_FONT_PATHS: "./fonts"
       - uses: actions/upload-pages-artifact@v5
         with:
           path: "./artifacts"
