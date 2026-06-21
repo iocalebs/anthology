@@ -47,12 +47,18 @@ This anthology contains poems and musical scores,
  along with brief descriptions of where they came from
  and how I learned of them.
 
-In a double-sided printing,
+In the Poems section,
  each poem appears on a right-hand page (_le recto_),
- and its description on the preceding left-hand page (_le verso_).
+ and its background information on the preceding left-hand page (_le verso_).
 If the binding allows,
  you can fold the book back on itself
  to read the poems on their own.
+
+In the Music section,
+ the background information for each musical score
+ is placed at the end of the section,
+ so that the music can be read without distraction
+ when the book is held open.
 
 #pagebreak()
 #blank()
