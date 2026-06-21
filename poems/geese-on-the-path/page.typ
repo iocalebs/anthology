@@ -1,7 +1,9 @@
-After having spent all this time writing about other people's poems,
-I was told I ought to try writing one of my own.
+This last poem was written by a grandson of Kathryn Peever, at her request.
 
-Ando so, this last one is for Grammy.
+She figured that
+ if he was going to spend all this time
+ learning about other people's poems,
+ he should write some too.
 
 #pagebreak()
 
