@@ -20,6 +20,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: actions/configure-pages@v6
+      - uses: codello/setup-lilypond@v0
+        with:
+          lilypond-version: 2.26
       - uses: typst-community/setup-typst@v5
       - run: make artifacts
       - uses: actions/upload-pages-artifact@v5
