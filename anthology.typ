@@ -90,7 +90,7 @@ In the Music section,
 
 #section("Music")
 #score("nayotake")[_Supple Bamboo_ (なよたけ)]
-#blank() // Ballad of the Wind Fish
+#score("ballad-of-the-wind-fish")[_The Ballad of the Wind Fish_]
 #score("cant-help-falling-in-love")[_Can't Help Falling in Love_]
 #score("never-grow-old")[_Where We'll Never Grow Old_]
 #score("les-anges-dans-nos-campagnes")[_Les anges dans nos campagnes_]
@@ -98,6 +98,7 @@ In the Music section,
 #pagebreak(to: "odd")
 
 #score_desc("nayotake")[なよたけ]
+#score_desc("ballad-of-the-wind-fish")[_The Ballad of the Wind Fish_]
 #score_desc("cant-help-falling-in-love")[_Can't Help Falling in Love_]
 #score_desc("never-grow-old")[_(Where We'll) Never Grow Old_]
 #score_desc("les-anges-dans-nos-campagnes")[_Les anges dans nos campagnes_]
