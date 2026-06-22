@@ -48,22 +48,21 @@
 
 #heading(outlined: false)[Preface]
 
-This anthology contains poems and musical scores,
- along with brief descriptions of where they came from
- and how I learned of them.
+This anthology contains poems and musical compositions,
+ along with descriptions of their origins.
 
 In the Poems section,
  each poem appears on a right-hand page (_le recto_),
  and its background information on the preceding left-hand page (_le verso_).
-If the binding allows,
- you can fold the book back on itself
- to read the poems on their own.
+This allows the reader to view the poems alongside the background information
+ or, if they prefer, to skip the introductions and focus on the poetry—by
+ folding the book back on itself, for example.
 
 In the Music section,
- the background information for each musical score
- is placed at the end of the section
- so that the music can be read without distraction
- when the book is held open.
+ the background information for each composition
+ is placed at the end of the section–after all the sheet music–so that
+ the music pages can be sight-read without distraction, even when the book
+ is held open.
 
 #pagebreak()
 #blank()
