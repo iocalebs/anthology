@@ -61,7 +61,7 @@ If the binding allows,
 
 In the Music section,
  the background information for each musical score
- is placed at the end of the section,
+ is placed at the end of the section
  so that the music can be read without distraction
  when the book is held open.
 
