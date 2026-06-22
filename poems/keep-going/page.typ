@@ -1,6 +1,8 @@
 This poem entitled "Keep Going" was written by Edgar Albert Guest
 for the March 4, 1921 issue of the _Detroit Free Press_.
 
+// TODO: needs work
+
 This poem also appears on my great-grandfather's tape recording.
 I have included some of his variations to the wording.
 
