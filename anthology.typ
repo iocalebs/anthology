@@ -60,7 +60,7 @@ This allows the reader to view the poems alongside the background information
 
 In the Music section,
  the background information for each composition
- is placed at the end of the section–after all the sheet music–so that
+ is placed at the end of the section—after all the sheet music—so that
  the music pages can be sight-read without distraction, even when the book
  is held open.
 
