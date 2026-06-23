@@ -9,6 +9,3 @@ of 20th century American poetry.#footnote[
 
 The poem serves as the epigraph for Rachel Naomi Remen's foreword to
 _The Five Invitations_ (2017).
-
-#pagebreak()
-#read("poem.txt")

@@ -17,10 +17,12 @@
   pagebreak()
 }
 #let poem(dir, toc) = {
+  include("poems/" + dir + "/desc.typ")
+  pagebreak(to: "odd")
   show heading: none
   heading(level: 2, toc)
-  include("poems/" + dir + "/page.typ")
-  pagebreak(to: "even")
+  include("poems/" + dir + "/entry.typ")
+  pagebreak()
 }
 #let score(dir, toc) = {
   show heading: none

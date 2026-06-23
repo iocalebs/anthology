@@ -14,7 +14,3 @@ and so I prefer my great-grandfather's version,
 I also prefer the straightforwardness of my great-grandfather's wording,
 #quote[when the night came down],
 over the original which says #quote[slipped down].
-
-#pagebreak()
-
-#read("poem.txt")

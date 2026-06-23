@@ -4,7 +4,3 @@ She figured that
  if he was going to spend all this time
  learning about other people's poems,
  he should write some too.
-
-#pagebreak()
-
-#read("poem.txt")

@@ -6,7 +6,3 @@ This version of it is transcribed
 I have kept some of his variations when they seem to read better aloud
  compared to the original wording.
 To wit, the use of the expression "growing old" instead of "getting old".
-
-#pagebreak()
-
-#read("poem.txt")

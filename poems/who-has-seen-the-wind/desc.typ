@@ -9,9 +9,3 @@ The Japanese rendition is by Yaso Saijō (1892 – 1970).#footnote[
 ]
 A recitation of the poem appears in Hayao Miyazaki's animated film
 _The Wind Rises_ (2013).
-
-#pagebreak()
-
-#read("poem.txt")
-#v(20pt)
-#include("poem-ja.typ")
