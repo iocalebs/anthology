@@ -79,7 +79,7 @@ In the Music section,
 
 #section("Poems")
 #poem("all-tempest")[_All tempest_]
-#poem("growing-old")[_You tell me I'm growing old_]
+#poem("getting-old")[_You Tell Me I'm Getting Old_]
 #poem("keep-going")[_Keep Going_]
 #poem("who-has-seen-the-wind")[_Who has seen the wind?_]
 #poem("the-earthly-hope")[_The Earthly Hope men set their hearts upon_]
