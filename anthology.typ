@@ -78,11 +78,11 @@ In the Music section,
 #counter(page).update(1)
 
 #section("Poems")
+#poem("the-earthly-hope")[_The Earthly Hope men set their hearts upon_]
+#poem("who-has-seen-the-wind")[_Who has seen the wind?_]
+#poem("keep-going")[_Keep Going_]
 #poem("all-tempest")[_All tempest_]
 #poem("getting-old")[_You Tell Me I'm Getting Old_]
-#poem("keep-going")[_Keep Going_]
-#poem("who-has-seen-the-wind")[_Who has seen the wind?_]
-#poem("the-earthly-hope")[_The Earthly Hope men set their hearts upon_]
 #blank()
 #blank()
 #poem("geese-on-the-path")[_Geese on the path_]
@@ -90,16 +90,17 @@ In the Music section,
 #blank()
 
 #section("Music")
-#score("nayotake")[_Supple Bamboo_ (なよたけ)]
-#score("ballad-of-the-wind-fish")[_The Ballad of the Wind Fish_]
-#score("cant-help-falling-in-love")[_Can't Help Falling in Love_]
-#score("never-grow-old")[_Where We'll Never Grow Old_]
 #score("les-anges-dans-nos-campagnes")[_Les anges dans nos campagnes_]
+#score("never-grow-old")[_Where We'll Never Grow Old_]
+#score("cant-help-falling-in-love")[_Can't Help Falling in Love_]
+#score("ballad-of-the-wind-fish")[_The Ballad of the Wind Fish_]
+#score("nayotake")[_Supple Bamboo_ (なよたけ)]
 
-#pagebreak(to: "odd")
+#blank()
+#pagebreak(to: "odd", weak: true)
 
-#score_desc("nayotake")[なよたけ]
-#score_desc("ballad-of-the-wind-fish")[_The Ballad of the Wind Fish_]
-#score_desc("cant-help-falling-in-love")[_Can't Help Falling in Love_]
-#score_desc("never-grow-old")[_(Where We'll) Never Grow Old_]
 #score_desc("les-anges-dans-nos-campagnes")[_Les anges dans nos campagnes_]
+#score_desc("never-grow-old")[_(Where We'll) Never Grow Old_]
+#score_desc("cant-help-falling-in-love")[_Can't Help Falling in Love_]
+#score_desc("ballad-of-the-wind-fish")[_The Ballad of the Wind Fish_]
+#score_desc("nayotake")[なよたけ]
