@@ -21,7 +21,7 @@ artifacts: .anthology.pdf
 
 # Stamp files needed as LilyPond generates one SVG per page
 $(music_svg): %.svg.stamp: %.ly
-	lilypond -dbackend=svg -o $(dir $<) $<
+	lilypond -dbackend=svg -dno-use-paper-size-for-page -o $(dir $<) $<
 	touch $@
 
 init:
