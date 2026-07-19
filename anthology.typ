@@ -42,7 +42,7 @@
   set page(numbering: none)
   set align(center)
   title()
-  text(1.1em)[by Caleb St-Denis]
+  text(1.1em)[Caleb St-Denis]
   pagebreak()
 }
 
