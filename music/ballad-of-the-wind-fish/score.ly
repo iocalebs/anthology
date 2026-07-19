@@ -2,8 +2,7 @@
 
 \header {
   title = "The Ballad of the Wind Fish"
-  tagline = " "
-  copyright = \markup { \char ##x00A9 "Nintendo 2019" }
+  tagline = ##f
 }
 
 \markup \vspace #1
@@ -34,7 +33,7 @@
     ゆ め は __ い つ か __ さ め る も の __
     そ れ が __ と き の __ さ だ め __
 
-    か ぜ の よ に __ す べ て き え さ っ て も
+    か ぜ の よう に __ す べ て き え さ っ て も
     お も __ い で の そ __ ら を __ お よ ぐ __
 
     ゆ め は __ さ め て __ し ま っ て も __
