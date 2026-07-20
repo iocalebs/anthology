@@ -92,7 +92,7 @@ In the Music section,
 #section("Music")
 #score("les-anges-dans-nos-campagnes")[_Les anges dans nos campagnes_]
 #score("never-grow-old")[_Where We'll Never Grow Old_]
-#score("cant-help-falling-in-love")[_Can't Help Falling in Love_]
+//#score("cant-help-falling-in-love")[_Can't Help Falling in Love_]
 #score("ballad-of-the-wind-fish")[_The Ballad of the Wind Fish_]
 #score("nayotake")[_Supple Bamboo_ (なよたけ)]
 
@@ -101,6 +101,6 @@ In the Music section,
 
 #score_desc("les-anges-dans-nos-campagnes")[_Les anges dans nos campagnes_]
 #score_desc("never-grow-old")[_(Where We'll) Never Grow Old_]
-#score_desc("cant-help-falling-in-love")[_Can't Help Falling in Love_]
+//#score_desc("cant-help-falling-in-love")[_Can't Help Falling in Love_]
 #score_desc("ballad-of-the-wind-fish")[_The Ballad of the Wind Fish_]
 #score_desc("nayotake")[なよたけ]
