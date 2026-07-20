@@ -1,1 +1,1 @@
-#image("sheet.pdf")
+#image("score.svg")
