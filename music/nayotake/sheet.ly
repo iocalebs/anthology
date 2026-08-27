@@ -7,8 +7,6 @@
   tagline = " "
 }
 
-\markup \vspace #1
-
 \score {
   \new PianoStaff <<
     \set PianoStaff.connectArpeggios = ##t
