@@ -55,7 +55,7 @@ This anthology contains poems and musical compositions,
 
 In the Poems section,
  each poem appears on a right-hand page (_le recto_),
- and its background information on the preceding left-hand page (_le verso_).
+ and its background information on the page opposite (_le verso_).
 This allows the reader to view the poems alongside the background information
  or, if they prefer, to skip the introductions and focus on the poetry—by
  folding the book back on itself, for example.
