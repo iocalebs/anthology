@@ -1,7 +1,0 @@
-{
-    "recommendations": [
-        "editorconfig.editorconfig",
-        "hashicorp.terraform",
-        "james-yu.latex-workshop", // for auto-refereshing PDF viewer
-    ]
-}
